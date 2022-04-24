@@ -1,7 +1,10 @@
-# CAR FIXING
+# REDUX CURD
 
-[Live Site](https://car-fixing-54441.web.app/)
+Technology
 
-This is a beginner-level web based project. Here we use Firebase Authentication to authenticate users. If the authenticated user is the administrator, then the administrator can add services, manage services, add administrators, manage orders, and simple users can provide reviews, book services and also see all the services they booked in advance.
+- React
+- Redux Toolkit
+- RTK Query
+- Material UI
 
-Here we use MongoDB, Express, React, Nodejs, Firebase authentication, Bootstrap, Font Awesome, and javascript ES6 features.
+RTK Query is a powerful data fetching and caching tool. It is designed to simplify common cases for loading data in a web application, eliminating the need to hand-write data fetching & caching logic yourself. This is an optional addon included in the Redux Toolkit package.
